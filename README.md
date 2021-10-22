@@ -11,7 +11,3 @@ I'm a data/political scientist who loves bayesian modelling, ml, algo trading, a
 - 👨‍💻 All of my projects are available at [https://github.com/dmarcelinobr](https://github.com/dmarcelinobr) and at [https://github.com/JOTAJornalismo](https://github.com/JOTAJornalismo)
 
 You can find a full list of my publications [here](http://danielmarcelino.github.io).
-
-- 📫 How to reach me **dmarcelinobr@live.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dmarcelinobr/](https://www.linkedin.com/in/dmarcelinobr/)
