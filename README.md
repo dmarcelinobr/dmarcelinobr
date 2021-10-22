@@ -1,5 +1,4 @@
-# Daniel Marcelino
-![](https://komarev.com/ghpvc/?username=dmarcelinobr&label=PROFILE+VIEWS&color=red)
+# Daniel Marcelino  ![](https://komarev.com/ghpvc/?username=dmarcelinobr&label=PROFILE+VIEWS&color=red)
 
 [![Linkedin Badge](https://img.shields.io/badge/-dmarcelinobr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmarcelinobr/)](https://www.linkedin.com/in/dmarcelinobr/)
 [![Gmail Badge](https://img.shields.io/badge/-dmarcelino@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmarcelino@live.com)](mailto:dmarcelino@live.com)
