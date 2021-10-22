@@ -6,6 +6,12 @@
 ![](https://komarev.com/ghpvc/?username=dmarcelinobr&label=PROFILE+VIEWS&color=red)
 
 ## About me 
-I'm a data/political scientist who loves bayesian reasoning, ml, algo trading, and legis/jurimetrics. I write things mostly using R, Python.
+I'm a data/political scientist who loves bayesian modelling, ml, algo trading, and legis/jurimetrics. I write things mostly using R, Python.
 
-You can find a full list of my publications [here](http://danielmarcelino.github.io).# dmarcelinobr
+- 👨‍💻 All of my projects are available at [https://github.com/dmarcelinobr](https://github.com/dmarcelinobr) and at [https://github.com/JOTAJornalismo](https://github.com/JOTAJornalismo)
+
+You can find a full list of my publications [here](http://danielmarcelino.github.io).
+
+- 📫 How to reach me **dmarcelinobr@live.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/dmarcelinobr/](https://www.linkedin.com/in/dmarcelinobr/)
